@@ -6,6 +6,7 @@ package com.company;
 public class Enemy {
 //my enemy class
     //enemy datatypes
+    //hail godzilla
     public String enemy;
     public int enemydmg;
     public int enemyhealth;
